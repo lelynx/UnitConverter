@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">UnitConverter</string>
+    <string name="meter">Mètre</string>
+    <string name="from">De</string>
+    <string name="to">Vers</string>
+    <string name="conversion_failed">Erreur de Conversion</string>
+    <string name="convert">Convertir</string>
+    <string name="result">Résultat: </string>
+    <string name="mile">Mile</string>
+    <string name="kilometer">Kilomètre</string>
+
+</resources>
